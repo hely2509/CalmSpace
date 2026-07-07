@@ -13,4 +13,4 @@ https://calm-spacecc.base44.app/
 
 ## Built With
 - Base44 (AI prompting)
-- HTML/CSS (if used)
+
